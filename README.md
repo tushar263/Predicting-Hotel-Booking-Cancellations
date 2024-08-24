@@ -70,15 +70,9 @@ The developed model can significantly assist hotels and booking platforms in pre
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repository-name.git
-Install the necessary packages:
-bash
-Copy code
-pip install -r requirements.txt
-Usage
+**Clone the repository:**
+
+**Usage**
 Load the dataset and run the preprocessing scripts.
 Perform EDA to visualize the data and understand key trends.
 Train the models using the provided scripts and evaluate their performance.
